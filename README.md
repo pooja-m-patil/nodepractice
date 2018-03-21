@@ -1,1 +1,3 @@
 # nodepractice
+<a href="https://bluemix.net/deploy?repository=https://git.ng.bluemix.net/idsorg/sample-java-cloudant"
+    target="_blank"><img src="http://bluemix.net/deploy/button.png" alt="Bluemix button"/></a>
